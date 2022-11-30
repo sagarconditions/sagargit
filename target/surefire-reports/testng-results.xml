@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-07-16T16:01:35 IST" name="Command line suite" finished-at="2020-07-16T16:01:35 IST" duration-ms="95">
+    <groups>
+    </groups>
+    <test started-at="2020-07-16T16:01:35 IST" name="Command line test" finished-at="2020-07-16T16:01:35 IST" duration-ms="95">
+      <class name="mvp.mavenjava.SeleniumTest">
+        <test-method signature="browser()[pri:0, instance:mvp.mavenjava.SeleniumTest@545997b1]" started-at="2020-07-16T16:01:35 IST" name="browser" finished-at="2020-07-16T16:01:35 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+      </class> <!-- mvp.mavenjava.SeleniumTest -->
+      <class name="mvp.mavenjava.RestApiTest">
+        <test-method signature="opera()[pri:0, instance:mvp.mavenjava.RestApiTest@306279ee]" started-at="2020-07-16T16:01:35 IST" name="opera" finished-at="2020-07-16T16:01:35 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- opera -->
+        <test-method signature="sagar()[pri:0, instance:mvp.mavenjava.RestApiTest@306279ee]" started-at="2020-07-16T16:01:35 IST" name="sagar" finished-at="2020-07-16T16:01:35 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sagar -->
+      </class> <!-- mvp.mavenjava.RestApiTest -->
+      <class name="mvp.mavenjava.AppiumTest">
+        <test-method signature="Android()[pri:0, instance:mvp.mavenjava.AppiumTest@78186a70]" started-at="2020-07-16T16:01:35 IST" name="Android" finished-at="2020-07-16T16:01:35 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Android -->
+      </class> <!-- mvp.mavenjava.AppiumTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
